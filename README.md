@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
+  <a href=#>
+  <img src="Alieldin-Alaa.gif" alt="Alieldin Alaa" width="60%" >
+    </a>
+</div>
 
-<!--
-**AliAlaa88/AliAlaa88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Alieldin
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student @ Cairo University  
+💡 Interested in Machine Learning, GenAI, and Scalable Systems  
+⚙️ Background in Full-Stack Development & Software Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 Highlights
+- 🥇 Top 6 — Capgemini AI Hackathon  
+  → Built an **AR + GenAI assistant** with RAG-powered conversations  
+
+- 🌍 LFX Mentorship (RISC-V)  
+  → Automated code generation pipelines from architecture specs  
+
+- 🎓 AI & Data Science Trainee (260 hrs)  
+  → ML, DL, Agentic AI, Automation  
+
+---
+
+## 🌱 Currently
+
+- Diving deeper into **Generative AI & LLM systems**
+- Building **real-world ML projects**
+- Preparing for **AI/ML internships & research**
+
+---
+
+## 📫 Connect
+
+- LinkedIn: https://linkedin.com/in/alieldin-alaa
+- GitHub: https://github.com/AliAlaa88
